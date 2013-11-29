@@ -1,0 +1,59 @@
+{
+	"headSeo" : {
+		"id" : "headSeo",
+		"type" : "block",
+		"name" : "Rbs_Seo_HeadMetas",
+		"visibility" : "raw",
+		"parameters" : {
+		}
+	},
+
+	"logo" : {
+		"id" : "logo",
+		"type" : "block",
+		"name" : "Rbs_Website_XhtmlTemplate",
+		"parameters" : {
+			"moduleName" : "Rbs_Modernbusiness",
+			"templateName" : "xhtml-logo.twig"
+		}
+	},
+	"menu" : {
+		"id" : "menu",
+		"type" : "block",
+		"name" : "Rbs_Website_Menu",
+		"parameters" : {
+			"maxLevel" : 2,
+			"templateName" : "menu-scroll-inverse.twig"
+		}
+	},
+	"carousel" : {
+		"id" : "carousel",
+		"type" : "block",
+		"name" : "Rbs_Website_XhtmlTemplate",
+		"parameters" : {
+			"moduleName" : "Rbs_Modernbusiness",
+			"templateName" : "xhtml-carousel.twig"
+		}
+	},
+	"sectionContent" : {
+		"id" : "sectionContent",
+		"grid" : 12,
+		"type" : "container",
+		"parameters" : {
+		}
+	},
+	"sectionColoredContent" : {
+		"id" : "sectionColoredContent",
+		"grid" : 12,
+		"type" : "container",
+		"parameters" : {
+		}
+	},
+	"footer" : {
+		"id" : "footer",
+		"grid" : 12,
+		"type" : "container",
+		"parameters" : {
+		}
+	}
+}

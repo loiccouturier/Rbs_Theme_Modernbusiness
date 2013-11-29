@@ -1,0 +1,18 @@
+{
+	"*" : {
+		"cssAssets" : [
+			"Theme/Rbs/Base/css/bootstrap.min.css",
+			"Theme/Rbs/Base/css/bootstrap-complements.css",
+			"Theme/Rbs/Modernbusiness/css/modern-business.css",
+			"Theme/Rbs/Modernbusiness/font-awesome/css/font-awesome.min.css"
+		],
+		"jsAssets" : [
+			"Theme/Rbs/Base/js/jquery-1.10.2.min.js",
+			"Theme/Rbs/Base/js/bootstrap.min.js",
+			"Theme/Rbs/Base/js/bootstrap-complements.js",
+			"Theme/Rbs/Base/js/angular-1.2.0-rc2/angular.min.js",
+			"Theme/Rbs/Base/js/angular-1.2.0-rc2/angular-cookies.min.js",
+			"Theme/Rbs/Modernbusiness/js/modern-business.js"
+		]
+	}
+}
